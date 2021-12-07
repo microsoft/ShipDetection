@@ -1,8 +1,6 @@
 
 ![Read Me Header Image 3](https://user-images.githubusercontent.com/95258461/145036180-9be092bb-9097-4ad5-b7e2-5b5b0e163613.png)
 
-[Azure Space Supply Chain Video](https://app.frame.io/reviews/994b06d9-4377-4b9f-b6ff-ca83357b679a/d6b0544b-5a0f-473a-959f-c53993c87866)
-
 # Ship Detector Description
 
 In these exercises, you will use the Custom Vision service to train an object detection model that can detect and locate ships in a satellite image, call the model through Python code in a notebook, and then build Power BI visualizations.
