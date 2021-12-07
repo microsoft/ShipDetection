@@ -1,0 +1,9 @@
+
+Model Name: Ship-Detector
+Predicted Object Threshold: 15.0%
+Detecting ships in Test Images/Ship_Test.png
+Ship 1, Prediction Probability = 76.9%
+Ship 2, Prediction Probability = 72.1%
+Ship 3, Prediction Probability = 58.4%
+Ships Detected > 15.0% probability = 3
+Results saved in Output/Ship_Test_tagged.jpg
