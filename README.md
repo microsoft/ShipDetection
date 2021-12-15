@@ -22,7 +22,7 @@ To deploy this solution in your subscription, follow the manual instructions in 
 ## Clone the repository for this course
 If you have already cloned ShipDetector code repository to the environment where you're working on this lab, open it in Visual Studio Code; otherwise, follow these steps to clone it now.
 1.	Start Visual Studio Code.
-2.	Open the palette (SHIFT+CTRL+P) and run a Git: Clone command to clone the `https://github.com/Microsoft/ShipDetector` repository to a local folder (it doesn't matter which folder).
+2.	Open the palette (SHIFT+CTRL+P) and run a Git: Clone command to clone the `https://github.com/Microsoft/ShipDetection` repository to a local folder (it doesn't matter which folder).
 3.	When the repository has been cloned, open the folder in Visual Studio Code.
 4.	Wait while additional files are installed to support the Python code projects in the repo. You may need to manually install packages if necessary.
 
